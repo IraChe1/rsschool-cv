@@ -1,1 +1,1 @@
-# https://irache1.github.io/rsschool-cv/cv
+# rsschool-cv
